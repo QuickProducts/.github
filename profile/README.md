@@ -19,10 +19,10 @@
 
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| 🧰 **[QuickTools](https://github.com/QuickProduct/QuickTools)** | Набор инструментов и утилит | C# |
-| 📥 **[QuickDownloader](https://github.com/QuickProduct/QuickDownloader)** | Проект для загрузки файлов | JavaScript |
-| ⚡ **[QuickLight](https://github.com/QuickProduct/QuickLight)** | Приложение на C++ | C++ |
-| 🎁 **[QuickTgReward](https://github.com/QuickProduct/QuickTgReward)** | Проект на Java | Java |
+| 🧰 **[QuickTools](https://github.com/QuickProducts/QuickTools)** | Набор инструментов и утилит | C# |
+| 📥 **[QuickDownloader](https://github.com/QuickProducts/QuickDownloader)** | Проект для загрузки файлов | JavaScript |
+| ⚡ **[QuickLight](https://github.com/QuickProducts/QuickLight)** | Приложение на C++ | C++ |
+| 🎁 **[QuickTgReward](https://github.com/QuickProducts/QuickTgReward)** | Проект на Java | Java |
 
 > Изучайте репозитории, следите за обновлениями и предлагайте улучшения через Issues и Pull Requests, если они включены в конкретном проекте.
 
